@@ -1,0 +1,17 @@
+.esconder {
+    display: flex;
+    justify-content: end;
+}
+
+.esconder button {
+   width: 100px;
+   height: 100px;
+   border: 0;
+   cursor: pointer;
+   margin-top: 20px;
+   background-color: blue;
+   border-radius: 100%;
+}
+.esconder button:hover {
+    border: 1px solid blue;
+ }
